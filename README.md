@@ -4,7 +4,7 @@
 Installation
 Project Motivation
 Project Descriptions
-Files Descriptions
+Files Description
 Instructions
 
 
